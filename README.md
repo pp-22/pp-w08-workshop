@@ -69,6 +69,8 @@ The [website](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) prov
 
 Launch the notebook `exploring_data.ipynb`, and study the examples there. In particular, there is a function `get_taxi_data()` provided for you in the `utils.py` module, which you should learn how to use to retrieve the data.
 
+_*Note:*_ if you see an error involving "snappy" at this point, please follow the instructions [in this Piazza post](https://piazza.com/class/l5mjacbaoir4s1/post/91).
+
 Start retrieving some data, and try a few simple examples with your group. For example:
 
 - Pick a ride and calculate its duration.
